@@ -33,9 +33,5 @@ __キーワード: JPEG, BMP, PNG, RGB, HSV, ヒストグラム, Pillow, scikit-
 画像を変形する方法，画像内の色を変換する方法に関する練習問題です．  
 - [画像の拡大縮小](2_transformation/transformation.md#resize)
 - [画像の回転](2_transformation/transformation.md#rotation)
-- [ガンマ補正](2_transformation/transformation.md#gamma)
-- [2値化](2_transformation/transformation.md#binalization)
-- [ヒストグラム均等化](2_transformation/transformation.md#histeq)
-- [疑似カラー](2_transformation/transformation.md#pseudo)
 
 __キーワード: アフィン変換, リサイズ, 回転, ガンマ補正, 2値化, ヒストグラム均等化, 擬似カラー__
