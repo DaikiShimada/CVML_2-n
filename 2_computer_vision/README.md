@@ -36,8 +36,8 @@ __キーワード: JPEG, BMP, PNG, RGB, HSV, ヒストグラム, Pillow, scikit-
 
 __キーワード: アフィン変換, リサイズ, 回転, ガンマ補正, 2値化, ヒストグラム均等化, 擬似カラー__
 
-## <a name ="filtering">[第3章 フィルタリング](filtering/filtering.md)
+## <a name ="filtering">[第3章 フィルタリング](3_filtering/filtering.md)
 フィルタリングによって画像から情報を取り出す方法に関する練習問題です．  
-- [2-3-1 エッジ検出](filtering/filtering.md#edge)
-- [2-3-2 ボケて](filtering/filtering.md#blur)
+- [2-3-1 エッジ検出](3_filtering/filtering.md#edge)
+- [2-3-2 ボケて](3_filtering/filtering.md#blur)  
 __キーワード: 輪郭抽出, ブラー, アンシャープマスク, ノイズ除去, 細線化__
