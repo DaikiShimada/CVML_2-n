@@ -15,7 +15,7 @@
 
 1. [画像の入出力と保存形式・色空間](#io_color)
 2. [画像の変形と色の変換](#transformation)
-3. フィルタリング
+3. [フィルタリング](#filtering)
 4. 画像の周波数表現とその処理
 5. 画像記述子とその応用
 
@@ -39,3 +39,9 @@ __キーワード: JPEG, BMP, PNG, RGB, HSV, ヒストグラム, Pillow, scikit-
 - [疑似カラー](2_transformation/transformation.md#pseudo)
 
 __キーワード: アフィン変換, リサイズ, 回転, ガンマ補正, 2値化, ヒストグラム均等化, 擬似カラー__
+
+## <a name ="filtering">[第3章 フィルタリング](3_filtering/filtering.md)
+フィルタリングによって画像から情報を取り出す方法に関する練習問題です．  
+- [2-3-1 エッジ検出](3_filtering/filtering.md#edge)
+- [2-3-2 ボケて](3_filtering/filtering.md#blur)  
+__キーワード: 輪郭抽出, ブラー, アンシャープマスク, ノイズ除去, 細線化__
