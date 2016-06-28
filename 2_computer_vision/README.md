@@ -48,4 +48,5 @@ __キーワード: アフィン変換, リサイズ, 回転, ガンマ補正, 2�
 - [2-3-4 ノイズを載せて，除いて](3_filtering/filtering.md#noise)
 - [2-3-5 モルフォルジー](3_filtering/filtering.md#morphology)
 - [2-3-6 太文字](3_filtering/filtering.md#thinning)
+
 __キーワード: 輪郭抽出, ブラー, アンシャープマスク, ノイズ除去, 細線化__
