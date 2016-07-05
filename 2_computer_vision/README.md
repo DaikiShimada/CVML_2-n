@@ -16,7 +16,7 @@
 1. [画像の入出力と保存形式・色空間](#io_color)
 2. [画像の変形と色の変換](#transformation)
 3. [フィルタリング](#filtering)
-4. 画像の周波数表現とその処理
+4. [画像の周波数表現とその処理](#frequency)
 5. 画像記述子とその応用
 
 ## <a name ="io_color">[第1章 画像の入出力と保存形式・色空間](1_io_color/io_color.md)
@@ -38,6 +38,17 @@ __キーワード: アフィン変換, リサイズ, 回転, ガンマ補正, 2�
 
 ## <a name ="filtering">[第3章 フィルタリング](3_filtering/filtering.md)
 フィルタリングによって画像から情報を取り出す方法に関する練習問題です．  
-- [2-3-1 エッジ検出](3_filtering/filtering.md#edge)
-- [2-3-2 ボケて](3_filtering/filtering.md#blur)  
+- [エッジ検出](3_filtering/filtering.md#edge)
+- [ボケて](3_filtering/filtering.md#blur)  
+- [ボケをなおして](3_filtering/filtering.md#unsharp)
+- [ノイズを載せて，除いて](3_filtering/filtering.md#noise)
+- [モルフォルジー](3_filtering/filtering.md#morphology)
+- [太文字](3_filtering/filtering.md#thinning)
+
 __キーワード: 輪郭抽出, ブラー, アンシャープマスク, ノイズ除去, 細線化__
+
+## <a name ="frequency">[第4章 画像の周波数表現とその処理](4_frequency/frequency.md)
+画像を周波数空間で表現する方法と周波数空間での画像処理方法に関する練習問題です．  
+- [2-4-1 未定](4_frequency/frequency.md#)
+
+__キーワード: フーリエ変換, ローパスフィルタ, ハイパスフィルタ, 逆フーリエ変換__
