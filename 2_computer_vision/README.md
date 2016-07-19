@@ -54,5 +54,8 @@ __キーワード: 輪郭抽出, ブラー, アンシャープマスク, ノイ�
 ## <a name ="frequency">[第4章 画像の周波数表現とその処理](4_frequency/frequency.md)
 画像を周波数空間で表現する方法と周波数空間での画像処理方法に関する練習問題です．  
 - [2-4-1 フーリエ変換](4_frequency/frequency.md#fourier)
+- [2-4-2 ハイパスとローパス](4_frequency/frequency.md#filtering1)
+- [2-4-3 テンプレートマッチング](4_frequency/frequency.md#matching)
+- [2-4-4 伊勢エビを探せ](4_frequency/frequency.md#shift)
 
-__キーワード: フーリエ変換, ローパスフィルタ, ハイパスフィルタ, 逆フーリエ変換__
+__キーワード: フーリエ変換, ローパスフィルタ, ハイパスフィルタ, 逆フーリエ変換, テンプレートマッチング__
