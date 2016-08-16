@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-06:
+10:
 """
 # python2とpython3のprint文の互換用おまじない
 from __future__ import print_function

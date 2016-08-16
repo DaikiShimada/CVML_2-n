@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-05:
+09:
 """
 
 # python2とpython3のprint文の互換用おまじない
