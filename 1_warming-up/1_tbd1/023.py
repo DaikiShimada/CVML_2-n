@@ -9,6 +9,6 @@
 from __future__ import print_function
 
 def hoge_func(a, b):
-    return (("iyatomi", "hitoshi")) if (a > b[0]) else ((('ogawa', 'koichi'))\
+    return (("annie", "bianca")) if (a > b[0]) else ((('cheryl', 'diana'))\
             if (a > b[1]) else (('a is smaller than', 'both of b[0] and b[1]')))
 print(hoge_func(a=10, b=(2, 20)))
